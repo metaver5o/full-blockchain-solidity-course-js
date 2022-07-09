@@ -7,10 +7,6 @@
 </a>
 </p>
 <br/> -->
-
-
-# Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course | Javascript Edition
-
 <br/>
 <p align="center">
 <a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ" target="_blank">
@@ -19,22 +15,26 @@
 </p>
 <br/>
 
-Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart Contract - Beginner to Expert Full Course | Javascript Edition FreeCodeCamp Course!
+# Learn Blockchain, Solidity, and Full Stack Web3 Development
 
-# Link to video: https://www.youtube.com/watch?v=gyMwXuJrbJQ
+- Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart Contract - Beginner to Expert Full Course
 
-All code references have both a javascript and a typescript edition.
 
-Recommended Testnet: Rinkeby
+### Link to video:
+   - [Learn Blockchain, Solidity, and Full Stack Web3 Development](https://youtu.be/gyMwXuJrbJQ)
 
-# [Testnet Faucets](https://faucets.chain.link)
-Main Faucet: https://faucets.chain.link
+   - All code references have both a javascript and a typescript edition.
 
-Backup Faucet: https://rinkebyfaucet.com/
+#### Recommended Testnet: Rinkeby
+
+#### [Testnet Faucets](https://faucets.chain.link)
+#### Main Faucet: https://faucets.chain.link
+
+#### Backup Faucet: https://rinkebyfaucet.com/
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk. 
 
-# Resources For This Course
+## Resources For This Course
 
 ### Questions
 
@@ -46,7 +46,7 @@ Backup Faucet: https://rinkebyfaucet.com/
     -   Great place for asking technical questions overall
 
 
-# Table of Contents
+## Table of Contents
 
 <details>
 <summary>Resources</summary>
